@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\wojci\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3307998018.index
+\SpringMVCAnnotationShoppingCart\src\main\resources
+C:\Users\wojci\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\550904238.index
+\My_shop\src\main\java
+C:\Users\wojci\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1936538359.index
+\My_shop\src\main\resources

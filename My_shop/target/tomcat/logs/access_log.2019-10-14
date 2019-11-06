@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [14/Oct/2019:22:01:54 +0200] "POST /My_shop/shoppingCart HTTP/1.1" 302 - http-bio-8080-exec-8 397
+0:0:0:0:0:0:0:1 - - [14/Oct/2019:22:01:54 +0200] "GET /My_shop/shoppingCart HTTP/1.1" 200 1066 http-bio-8080-exec-8 106
+0:0:0:0:0:0:0:1 - - [14/Oct/2019:22:01:54 +0200] "GET /My_shop/styles.css HTTP/1.1" 404 987 http-bio-8080-exec-8 9
+0:0:0:0:0:0:0:1 - - [14/Oct/2019:22:01:58 +0200] "GET /My_shop/productList HTTP/1.1" 200 3976 http-bio-8080-exec-8 211
+0:0:0:0:0:0:0:1 - - [14/Oct/2019:22:01:58 +0200] "GET /My_shop/styles.css HTTP/1.1" 404 987 http-bio-8080-exec-8 3
+0:0:0:0:0:0:0:1 - - [14/Oct/2019:22:01:58 +0200] "GET /My_shop/productImage?code=S001 HTTP/1.1" 200 - http-bio-8080-exec-1 170
+0:0:0:0:0:0:0:1 - - [14/Oct/2019:22:01:58 +0200] "GET /My_shop/productImage?code=S003 HTTP/1.1" 200 - http-bio-8080-exec-6 183
+0:0:0:0:0:0:0:1 - - [14/Oct/2019:22:01:58 +0200] "GET /My_shop/productImage?code=S005 HTTP/1.1" 200 - http-bio-8080-exec-8 209
+0:0:0:0:0:0:0:1 - - [14/Oct/2019:22:01:58 +0200] "GET /My_shop/productImage?code=S002 HTTP/1.1" 200 - http-bio-8080-exec-4 193
+0:0:0:0:0:0:0:1 - - [14/Oct/2019:22:01:58 +0200] "GET /My_shop/productImage?code=S004 HTTP/1.1" 200 - http-bio-8080-exec-2 251
+0:0:0:0:0:0:0:1 - - [14/Oct/2019:22:02:01 +0200] "GET /My_shop/shoppingCart HTTP/1.1" 200 1066 http-bio-8080-exec-2 109
+0:0:0:0:0:0:0:1 - - [14/Oct/2019:22:02:01 +0200] "GET /My_shop/styles.css HTTP/1.1" 404 987 http-bio-8080-exec-2 3
+0:0:0:0:0:0:0:1 - - [14/Oct/2019:22:02:05 +0200] "GET /My_shop/ HTTP/1.1" 200 1106 http-bio-8080-exec-2 49
+0:0:0:0:0:0:0:1 - - [14/Oct/2019:22:02:05 +0200] "GET /My_shop/styles.css HTTP/1.1" 404 987 http-bio-8080-exec-2 3
